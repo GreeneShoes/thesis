@@ -1,0 +1,7 @@
+#! /bin/bash
+
+sudo sysctl -w net.core.rmem_max=50000000
+sudo sysctl -w net.core.wmem_max=1048576
+sudo ifdown eth1
+sudo ifup eth1
+sudo sysctl kernel.shmmni=32000
