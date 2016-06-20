@@ -1,6 +1,6 @@
 # thesis
 
-This repository contains code written as part of the thesis of André Mruz.
+This repository contains code written as part of a thesis by  André Mruz while at the Institute of Telematics(ITEM) at NTNU Trondheim.
 
 # Acknowledgements
 This project utilizes code from the gr-gsm projet, with som minor tweaks to fit into the rest of the code. I extend my thanks to anyone who has been involved with the project.
