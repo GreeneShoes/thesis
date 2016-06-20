@@ -1,4 +1,4 @@
-# thesis
+# Thesis
 
 This repository contains code written as part of a thesis by  André Mruz while at the Institute of Telematics(ITEM) at NTNU Trondheim.
 
